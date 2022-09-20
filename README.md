@@ -9,12 +9,14 @@ It took me by surprise to realize that this was my passion. I'm currently focuse
 ```js 
 const Tecnologies = {
 ProgrammingLanguage: JavaScript.
-FrontEnd: {
-			js: ["React", "Redux"],
-		},
-BackEnd: {
-			js: ["Node", "Express"],
-		},
+FrontEnd: 
+	{
+		js: ["React", "Redux"],
+	},
+BackEnd: 
+	{
+		js: ["Node", "Express"],
+	},
 Databases: ["PostgreSQL"],
 }
 ```
