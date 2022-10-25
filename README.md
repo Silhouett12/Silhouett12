@@ -8,7 +8,7 @@ It took me by surprise to realize that this was my passion. I'm currently focuse
 ## About me in code:
 ```js 
 const Tecnologies = {
-ProgrammingLanguage: JavaScript.
+ProgrammingLanguage: Typescript, JavaScript.
 FrontEnd: 
 	{
 		js: ["React", "Redux"],
@@ -17,7 +17,7 @@ BackEnd:
 	{
 		js: ["Node", "Express"],
 	},
-Databases: ["PostgreSQL"],
+Databases: ["PostgreSQL", "Firebase"],
 }
 ```
 
