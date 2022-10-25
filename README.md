@@ -7,7 +7,7 @@ It took me by surprise to realize that this was my passion. I'm currently focuse
 
 ## About me in code:
 ```js 
-const Tecnologies = {
+const Technologies = {
 ProgrammingLanguage: Typescript, JavaScript.
 FrontEnd: 
 	{
