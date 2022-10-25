@@ -30,7 +30,7 @@ Databases: ["PostgreSQL", "Firebase"],
 - 📫 How to reach me: pablonicolaslm@gmail.com
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Silhouett12)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=silhouett12&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **Silhouett12/Silhouett12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
