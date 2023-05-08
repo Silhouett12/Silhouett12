@@ -11,13 +11,14 @@ const Technologies = {
 ProgrammingLanguage: Typescript, JavaScript.
 FrontEnd: 
 	{
-		js: ["React", "Redux"],
+		frameworks: ["React", "Angular", "Next"],
+		other: ["Tailwind", "Chakra", "Ionic"]
 	},
 BackEnd: 
 	{
 		js: ["Node", "Express"],
 	},
-Databases: ["PostgreSQL", "Firebase"],
+Databases: ["Firebase"],
 }
 ```
 
@@ -26,7 +27,7 @@ Databases: ["PostgreSQL", "Firebase"],
 - [Linkedin](https://www.linkedin.com/in/pablo-la-madrid-934298248/)
 - [Instagram](https://www.instagram.com/pablo.lamadrid.1/)
 ## Extras:
-- 🌱 I’m currently learning **Typescript**
+- 🌱 I’m currently learning **GraphQL**
 - 📫 How to reach me: pablonicolaslm@gmail.com
 
 
